@@ -1,2 +1,2 @@
-# telegram_crazy_typing
-Telegram Crazy Typing
+# Telegram Crazy Typing
+*Бесите или озадачивайте людей фейковым набором сообщения в телеграме!*
